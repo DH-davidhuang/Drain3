@@ -1,0 +1,11 @@
+Dataset,Mode,F1,Accuracy
+Proxifier,rawlog,0.0,0.0
+Proxifier,structured_csv,0.0,0.0
+HDFS,rawlog,0.0,0.0
+HDFS,structured_csv,0.0,0.0
+BGL,rawlog,0.0,0.0
+BGL,structured_csv,0.0,0.0
+Hadoop,rawlog,0.0,0.0
+Hadoop,structured_csv,0.0,0.0
+OpenSSH,rawlog,0.0,0.0
+OpenSSH,structured_csv,0.0,0.0
